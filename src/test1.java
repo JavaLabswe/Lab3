@@ -9,19 +9,6 @@ public class test1 {
 		//uihfeiu.oaslsll;
 		//uihfeiu.oaslsll;
 		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
 		
 	}
 
