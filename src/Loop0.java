@@ -13,8 +13,6 @@ public class Loop0 {
 			System.out.println();
 		}
 		
-		
-
 	}
 
 }
