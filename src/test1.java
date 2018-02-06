@@ -5,11 +5,7 @@ public class test1 {
 		// TODO Auto-generated method stub
 		//uihfeiu.oaslsll;//uihfeiu.oaslsll;
 		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		//uihfeiu.oaslsll;
-		
+				
 	}
 
 }
