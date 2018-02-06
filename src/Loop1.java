@@ -7,8 +7,11 @@ public class Loop1 {
 		System.out.println("N : ");
 		int n = in.nextInt();
 		
-		for(int i=1 ; i<n ; i++) {
-			System.out.println("A");
+		for(int i=1 ; i<=n ; i++) {
+			for(int j = 0 ; j<i ; j++) {
+			System.out.print("A");
+			}
+			System.out.println("");
 		}
 	}
 
