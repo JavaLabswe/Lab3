@@ -10,9 +10,9 @@ public class Loop9 {
 		n = inp.nextInt();
 		
 		for(i=1;i<=m;i++) {
-			for(j=0;j<l;j++) {
+			for(j=1;j<=l;j++) {
 				for(k=1;k<=n;k++) {
-					System.out.print(k);
+					System.out.print(j);
 				}
 				
 				
